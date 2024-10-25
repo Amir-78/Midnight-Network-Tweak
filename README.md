@@ -1,4 +1,3 @@
-Here’s a **Markdown (`.md`) file** for your GitHub repository describing the **Midnight Network Tweak**.
 
 ---
 
