@@ -71,5 +71,3 @@ If you find bugs or have suggestions, feel free to open an issue or submit a pul
 Special thanks to the gaming and tech community for inspiring this tweak!
 
 ---
-
-This `.md` file provides a professional and structured description for your GitHub repository. You can replace `Amir-78` with your GitHub username when you upload the project. Let me know if you need further adjustments!
